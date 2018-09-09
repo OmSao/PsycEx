@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="_1_StudiesAndExperiments">
+        <item name="title">A Brown and Blue eyes Racism experiment</item>
+        <item name="image">studies_and_experiments_1_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> Jane Elliott</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> 1968 in an Iowa classroom</item>
+        <item name="topic"><b><u>Topic:</u></b> Effect and Development of Racism</item>
+        <item name="details"><b><u>Experiment Details:</u></b> Jane Elliott’s famous experiment was inspired by the assassination of Dr. Martin Luther King Jr. and the inspirational life that he led. The third grade teacher developed an exercise to help her Caucasian students understand the effects of racism and prejudice.
+                            \n\n\t\tElliott divided her class into two separate groups: blue-eyed students and brown-eyed students. On the first day, she labeled the blue-eyed group as the superior group and from that point forward they had extra privileges, leaving the brown-eyed children to represent the minority group.
+                            She discouraged the groups from interacting and singled out individual students to stress the negative characteristics of the children in the minority group. What this exercise showed was that the children’s behavior changed almost instantaneously. The group of blue-eyed students performed better academically and even began bullying their brown-eyed classmates. The brown-eyed group experienced lower self-confidence and worse academic performance. The next day, she reversed the roles of the two groups and the blue-eyed students became the minority group.
+                            \n\n\t\tAt the end of the experiment, the children were so relieved that they were reported to have embraced one another and agreed that people should not be judged based on outward appearances. This exercise has since been repeated many times with similar outcomes.
+        </item>
+    </string-array>
+
+    <string-array name="_2_StudiesAndExperiments">
+        <item name="title">Asch Conformity Study</item>
+        <item name="image">studies_and_experiments_2_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> Dr. Solomon Asch</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> 1951 at Swarthmore College</item>
+        <item name="topic"><b><u>Topic:</u></b> Conformation to group opinion overshadows personal opinion</item>
+        <item name="details"><b><u>Experiment Details:</u></b> Dr. Solomon Asch conducted a groundbreaking study that was designed to evaluate a person’s likelihood to conform to a standard when there is pressure to do so.
+                            \n\n\t\tA group of participants were shown pictures with lines of various lengths and were then asked a simple question: Which line is longest? The tricky part of this study was that in each group only one person was a true participant. The others were actors with a script. Most of the actors were instructed to give the wrong answer. Strangely, the one true participant almost always agreed with the majority, even though they knew they were giving the wrong answer.
+                            \n\n\t\tThe results of this study are important when we study social interactions among individuals in groups. This study is a famous example of the temptation many of us experience to conform to a standard during group situations and it showed that people often care more about being the same as others than they do about being right.
+        </item>
+    </string-array>
+
+    <string-array name="_3_StudiesAndExperiments">
+        <item name="title">Bobo Doll Experiment</item>
+        <item name="image">studies_and_experiments_3_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> Dr. Alburt Bandura</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> between 1961-1963 at Stanford University</item>
+        <item name="topic"><b><u>Topic:</u></b>Modelling and Observational learning</item>
+        <item name="details"><b><u>Experiment Details:</u></b> During the early 1960s a great debate began regarding the ways in which genetics, environmental factors, and social learning shaped a child’s development. This debate still lingers and is commonly referred to as the Nature vs. Nurture Debate. Albert Bandura conducted the Bobo Doll Experiment to prove that human behavior is largely based upon social imitation rather than inherited genetic factors.
+                            \n\n\t\tIn his groundbreaking study he separated participants into three groups: one was exposed to a video of an adult showing aggressive behavior towards a Bobo doll;  another was exposed to video of a passive adult playing with the Bobo doll;  and the third formed a control group. Children watched their assigned video and then were sent to a room with the same doll they had seen in the video (with the exception of those in the control group). What the researcher found was that children exposed to the aggressive model were more likely to exhibit aggressive behavior towards the doll themselves, while the other groups showed little imitative aggressive behavior. For those children exposed to the aggressive model, the number of derivative physical aggressions shown by the boys was 38.2 and 12.7 for the girls.
+                            \n\n\t\tThe study also showed that boys exhibited more aggression when exposed to aggressive male models than boys exposed to aggressive female models. When exposed to aggressive male models, the number of aggressive instances exhibited by boys averaged 104 compared to 48.4 aggressive instances exhibited by boys who were exposed to aggressive female models. While the results for the girls show similar findings, the results were less drastic. When exposed to aggressive female models, the number of aggressive instances exhibited by girls averaged 57.7 compared to 36.3 aggressive instances exhibited by girls who were exposed to aggressive male models. The results concerning gender differences strongly supported Bandura’s secondary prediction that children will be more strongly influenced by same-sex models.
+        </item>
+    </string-array>
+
+
+    <string-array name="_4_StudiesAndExperiments">
+        <item name="title">Misinformation Effect to Memory</item>
+        <item name="image">studies_and_experiments_4_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> Elizabeth Loftus and John Palmer</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> 1974 at The University of California in Irvine</item>
+        <item name="topic"><b><u>Topic:</u></b> Incorporation of Misinformation into one's memory with addition of false and ambigous details</item>
+        <item name="details"><b><u>Experiment Details:</u></b> Loftus and Palmer set out to prove just how deceiving memories can be. The 1974 Car Crash Experiment was designed to evaluate whether wording questions a certain way could influence a participant’s recall by twisting their memories of a specific event.
+                            \n\n\t\tThe participants watched slides of a car accident and were asked to describe what had happened as if they were eyewitnesses to the scene. The participants were put into two groups and each group was questioned using different wording such as “how fast was the car driving at the time of impact?” versus “how fast was the car going when it smashed into the other car?” The experimenters found that the use of different verbs affected the participants’ memories of the accident, showing that memory can be easily distorted.
+                            \n\n\t\tThis research suggests that memory can be easily manipulated by questioning technique, meaning that information gathered after the event can merge with original memory causing incorrect recall or reconstructive memory. The addition of false details to a memory of an event is now referred to as confabulation. This concept has very important implications for the questions used in police interviews of eyewitnesses.
+        </item>
+    </string-array>
+
+    <string-array name="_5_StudiesAndExperiments">
+        <item name="title">Cognitive Dissonance Experiment</item>
+        <item name="image">studies_and_experiments_5_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:h</u></b> Leon Festinger and James Carlsmit</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> 1957 at Stanford University</item>
+        <item name="topic"><b><u>Topic:</u></b> Diagreement between fact and belief</item>
+        <item name="details"><b><u>Experiment Details:</u></b>The concept of cognitive dissonance refers to a situation involving conflicting attitudes, beliefs or behaviors. This conflict produces an inherent feeling of discomfort leading to a change in one of the attitudes, beliefs or behaviors to minimize or eliminate the discomfort and restore balance.
+                            \n\n\t\tCognitive dissonance was first investigated by Leon Festinger, after an observational study of a cult that believed that the earth was going to be destroyed by a flood. Out of this study was born an intriguing experiment conducted by Festinger and Carlsmith where participants were asked to perform a series of dull tasks (such as turning pegs in a peg board for an hour). Participant’s initial attitudes toward this task were highly negative. They were then paid either $1 or $20 to tell a participant waiting in the lobby that the tasks were really interesting. Almost all of the participants agreed to walk into the waiting room and persuade the next participant that the boring experiment would be fun.
+                            \n\n\t\tWhen the participants were later asked to evaluate the experiment, the participants who were paid only $1 rated the tedious task as more fun and enjoyable than the participants who were paid $20 to lie. Being paid only $1 is not sufficient incentive for lying and so those who were paid $1 experienced dissonance. They could only overcome that dissonance by coming to believe that the tasks really were interesting and enjoyable. Being paid $20 provides a reason for turning pegs and there is therefore no dissonance.
+        </item>
+    </string-array>
+    <string-array name="_6_StudiesAndExperiments">
+        <item name="title">Fantz’s Looking Chamber</item>
+        <item name="image">studies_and_experiments_6_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:Robert L. Fantz</u></b> </item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> 1961 at the University of Illinois</item>
+        <item name="topic"><b><u>Topic: </u></b> Understanding development of Infant's vision accuracy</item>
+        <item name="details"><b><u>Experiment Details:</u></b> The study conducted by Robert L. Fantz is among the simplest, yet most important in the field of infant development and vision. In 1961, when this experiment was conducted, there very few ways to study what was going on in the mind of an infant. Fantz realized that the best way to figure out this puzzle was to simply watch the actions and reactions of infants. He understood the fundamental factor that if there is something of interest near humans, they generally look at it.
+                            \n\n\t\tTo test this concept, Fantz set up a display board with two pictures attached. On one was a bulls-eye and on the other was the sketch of a human face. This board was hung in a chamber where a baby could lie safely underneath and see both images. Then, from behind the board, invisible to the baby, he peeked through a hole to watch what the baby looked at. This study showed that a two-month old baby looked twice as much at the human face as it did at the bulls-eye. This suggests that human babies have some powers of pattern and form selection. Before this experiment it was thought that babies looked out onto a chaotic world of which they could make little sense.
+        </item>
+    </string-array>
+    <string-array name="_7_StudiesAndExperiments">
+        <item name="title">Hawthorne Effect</item>
+        <item name="image">studies_and_experiments_7_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> Henry A. Landsberger</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> 1955 at Hawthorne Works in Chicago, Illinois</item>
+        <item name="topic"><b><u>Topic:</u></b> Observer Expectancy bias and change in behaviour of participants when participated in experiment. Importance of blind experimental design.</item>
+        <item name="details"><b><u>Experiment Details:</u></b>  The Hawthorne Effect came from a 1955 study conducted by Henry Landsberger. This effect is a simple premise that human subjects in an experiment change their behavior simply because they are being studied.
+                            \n\n\t\tLandsberger performed the study by analyzing data from experiments conducted between 1924 and 1932, by Elton Mayo, at the Hawthorne Works near Chicago. The company had commissioned studies to evaluate whether the level of light within a building changed the productivity of the workers. What Mayo found was that the level of light made no difference in productivity, as the workers increased their output whenever the amount of light was switched from a low level to a high level, or vice versa. The researchers noticed a tendency that the workers’ level of efficiency increased when any variable was manipulated.
+                            \n\n\t\tThe study showed that the output changed simply because the workers were aware that they were under observation. The conclusion was that the workers felt important because they were pleased to be singled out, and increased productivity as a result. Being singled out was the factor dictating increased productivity, not the changing lighting levels, or any of the other factors that they experimented upon. The Hawthorne Effect has become one of the hardest inbuilt biases to eliminate or factor into the design of any experiment in psychology and beyond.
+        </item>
+    </string-array>
+
+    <string-array name="_8_StudiesAndExperiments">
+        <item name="title">Bystander Effect/Apathy(Kitty Genovese Case)</item>
+        <item name="image">studies_and_experiments_8_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> New York Police Force</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> 1964 in New York City</item>
+        <item name="topic"><b><u>Topic:</u></b> Bystandar effect/apathy. Diffusion of responsibility when part of group</item>
+        <item name="details"><b><u>Experiment Details:</u></b> The murder case of Kitty Genovese was never intended to be a psychological experiment, however it ended up having serious implications for the field.
+                            \n\n\t\tAccording to a New York Times article, almost forty neighbors witnessed the event of Kitty Genovese being savagely attacked and murdered in Queens, New York in 1964, but not one neighbor called the police for help. Some reports state that the attacker briefly left the scene and later returned to “finish off” his victim. It was later uncovered that many of these facts were exaggerated (there were more likely only a dozen witnesses and records show that some calls to police were made).
+                            \n\n\t\t What this case later become famous for is the “Bystander Effect,” which states that the more bystanders that are present in a social situation, the less likely it is that anyone will step in and help. This effect has led to changes in medicine, psychology and many other areas. One famous example is the way CPR is taught to new learners. All students in CPR courses learn that they must assign one bystander the job of alerting authorities which minimizes the chances of no one calling for assistance.
+        </item>
+    </string-array>
+
+    <string-array name="_9_StudiesAndExperiments">
+        <item name="title">Learned Helplessness Experiment</item>
+        <item name="image">studies_and_experiments_9_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> Martin Seligman</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> 1967 at the University of Pennsylvania</item>
+        <item name="topic"><b><u>Topic:</u></b> Helplessness can also be learnt based on past experience </item>
+        <item name="details"><b><u>Experiment Details:</u></b> In 1965, Martin Seligman and his colleagues were conducting research on classical conditioning, the process by which an animal or human associates one thing with another.
+                            \n\n\t\tSeligman’s experiment involved the ringing of a bell and then the administration of a light shock to a dog. After a number of pairings, the dog reacted to the shock even before it happened: as soon as the dog heard the bell, he reacted as though he’d already been shocked. During the course of this study something unexpected happened. Each dog was placed in a large crate that was divided down the middle with a low fence and the dog could see and jump over the fence easily. The floor on one side of the fence was electrified, but not on the other side of the fence. Seligman placed each dog on the electrified side and administered a light shock. He expected the dog to jump to the non-shocking side of the fence. In an unexpected turn, the dogs simply laid down. The hypothesis was that as the dogs learned from the first part of the experiment that there was nothing they could do to avoid the shocks, they gave up in the second part of the experiment. To prove this hypothesis the experimenters brought in a new set of animals and found that dogs with no history in the experiment would jump over the fence.
+                            \n\n\t\tThis condition was described as learned helplessness, where a human or animal does not attempt to get out of a negative situation because the past has taught them that they are helpless.
+        </item>
+    </string-array>
+
+    <string-array name="_10_StudiesAndExperiments">
+        <item name="title">Little Albert Experiment</item>
+        <item name="image">studies_and_experiments_10_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> John B. Watson and Rosalie Rayner</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> 1920 at Johns Hopkins University</item>
+        <item name="topic"><b><u>Topic:</u></b> Phobias in humans learnt by Classical Condition </item>
+        <item name="details"><b><u>Experiment Details:</u></b>  The Little Albert experiment is considered to be among the most unethical psychological experiments of all time. The experiment was conducted in 1920 by John Watson and Rosalie Rayner at Johns Hopkins University. The hypothesis was that through a series of pairings, they could condition a nine-month-old child to develop an irrational fear.
+                            \n\n\t\tThe experiment began by placing a white rat in front of the infant, who initially had no fear of the animal. Watson then produced a loud sound by striking a steel bar with a hammer every time little Albert was presented with the rat. After several pairings (the noise and the presentation of the white rat), the boy began to cry and exhibit signs of fear every time the rat appeared in the room. Watson also created similar conditioned reflexes with other common animals and objects (rabbits, Santa beard, etc.) until Albert feared them all.
+                            \n\n\t\tThis study proved that classical conditioning works on humans. One of the most important implications this finding has is that adult fears are often connected to early childhood experiences.
+        </item>
+    </string-array>
+
+    <string-array name="_11_StudiesAndExperiments">
+        <item name="title">Magical Number Seven</item>
+        <item name="image">studies_and_experiments_11_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> George A. Miller</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> 1956 at Princeton University</item>
+        <item name="topic"><b><u>Topic:</u></b> Information stored with highest success if have certain length.</item>
+        <item name="details"><b><u>Experiment Details:</u></b> Frequently referred to as “Miller’s Law,” the Magical Number Seven experiment purports that the number of objects an average human can hold in working memory is 7 ± 2. What this means is that the human memory capacity typically includes strings of words or concepts ranging from 5-9. This information on the limits to the capacity for processing information became one of the most highly cited papers in psychology.
+                            \n\n\t\t The Magical Number Seven Experiment was published in 1956 by cognitive psychologist George A. Miller of Princeton University’s Department of Psychology in Psychological Review.  In the article, Miller discussed a concurrence between the limits of one-dimensional absolute judgment and the limits of short-term memory. In a one-dimensional absolute-judgment task, a person is presented with a number of stimuli that vary on one dimension (such as 10 different tones varying only in pitch) and responds to each stimulus with a corresponding response (learned before). Performance is almost perfect up to five or six different stimuli but declines as the number of different stimuli is increased.
+                            \n\n\t\tThis means that a human’s maximum performance on one-dimensional absolute judgment can be described as an information store with the maximum capacity of approximately 2 to 3 bits of information, with the ability to distinguish between four and eight alternatives.
+        </item>
+    </string-array>
+
+    <string-array name="_12_StudiesAndExperiments">
+        <item name="title">Pavlov’s Dog Experiment</item>
+        <item name="image">studies_and_experiments_12_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> Ivan Pavlov</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> 1890s at the Military Medical Academy in St. Petersburg, Russia</item>
+        <item name="topic"><b><u>Topic:</u></b> Classical conditioning </item>
+        <item name="details"><b><u>Experiment Details:</u></b>  Pavlov’s experiment with dogs turned out to be one of the most pivotal experiments in all of psychology. His findings on conditioning led to a whole new branch of psychological study.
+                            \n\n\t\tPavlov began with the simple idea that there are some things that a dog does not need to learn. Specific to his study he observed that dogs do not learn to salivate when they see food. This reflex is “hard wired” into the dog. In what became “behaviorist terms,” this is an unconditioned response (a stimulus-response connection that required no learning). Pavlov outlined that there are unconditioned responses in the animal by presenting a dog with a bowl of food and then measuring its salivary secretions. In the experiment, Pavlov used a bell as his neutral stimulus (meaning it does not elicit any innate response). Whenever he gave food to his dogs, he also rang a bell. After a number of repeats of this procedure, he tried the bell on its own. What he found was that the bell on its own now caused an increase in salivation. The dog had learned to associate the bell and the food and this learning created a new behavior, the dog salivated when he heard the bell. Because this response was learned (or conditioned), it is called a conditioned response. The neutral stimulus has become a conditioned stimulus.
+                            \n\n\t\tThis theory came to be known as classical conditioning (further developed by experimenter and psychologist John Watson) and involves learning to associate an unconditioned stimulus that already brings about a particular response (i.e., a reflex) with a new (conditioned) stimulus, so that the new stimulus brings about the same response.
+        </item>
+    </string-array>
+
+   <!-- <string-array name="_**_StudiesAndExperiments">
+        <item name="title">**</item>
+        <item name="image">studies_and_experiments_**_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> **</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> **</item>
+        <item name="topic"><b><u>Topic:</u></b> ** </item>
+        <item name="details"><b><u>Experiment Details:</u></b>
+                            \n\n\t\t
+                            \n\n\t\t
+        </item>
+    </string-array>
+
+    <string-array name="_**_StudiesAndExperiments">
+        <item name="title">**</item>
+        <item name="image">studies_and_experiments_**_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> **</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> **</item>
+        <item name="topic"><b><u>Topic:</u></b> ** </item>
+        <item name="details"><b><u>Experiment Details:</u></b>
+                            \n\n\t\t
+                            \n\n\t\t
+        </item>
+    </string-array>
+
+    <string-array name="_**_StudiesAndExperiments">
+        <item name="title">**</item>
+        <item name="image">studies_and_experiments_**_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> **</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> **</item>
+        <item name="topic"><b><u>Topic:</u></b> ** </item>
+        <item name="details"><b><u>Experiment Details:</u></b>
+                            \n\n\t\t
+                            \n\n\t\t
+        </item>
+    </string-array>
+
+    <string-array name="_**_StudiesAndExperiments">
+        <item name="title">**</item>
+        <item name="image">studies_and_experiments_**_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> **</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> **</item>
+        <item name="topic"><b><u>Topic:</u></b> ** </item>
+        <item name="details"><b><u>Experiment Details:</u></b>
+                            \n\n\t\t
+                            \n\n\t\t
+        </item>
+    </string-array>
+
+    <string-array name="_**_StudiesAndExperiments">
+        <item name="title">**</item>
+        <item name="image">studies_and_experiments_**_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> **</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> **</item>
+        <item name="topic"><b><u>Topic:</u></b> ** </item>
+        <item name="details"><b><u>Experiment Details:</u></b>
+                            \n\n\t\t
+                            \n\n\t\t
+        </item>
+    </string-array>
+
+    <string-array name="_**_StudiesAndExperiments">
+        <item name="title">**</item>
+        <item name="image">studies_and_experiments_**_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> **</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> **</item>
+        <item name="topic"><b><u>Topic:</u></b> ** </item>
+        <item name="details"><b><u>Experiment Details:</u></b>
+                            \n\n\t\t
+                            \n\n\t\t
+        </item>
+    </string-array>
+
+    <string-array name="_**_StudiesAndExperiments">
+        <item name="title">**</item>
+        <item name="image">studies_and_experiments_**_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> **</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> **</item>
+        <item name="topic"><b><u>Topic:</u></b> ** </item>
+        <item name="details"><b><u>Experiment Details:</u></b>
+                            \n\n\t\t
+                            \n\n\t\t
+        </item>
+    </string-array>
+
+    <string-array name="_**_StudiesAndExperiments">
+        <item name="title">**</item>
+        <item name="image">studies_and_experiments_**_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> **</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> **</item>
+        <item name="topic"><b><u>Topic:</u></b> ** </item>
+        <item name="details"><b><u>Experiment Details:</u></b>
+                            \n\n\t\t
+                            \n\n\t\t
+        </item>
+    </string-array>
+
+    <string-array name="_**_StudiesAndExperiments">
+        <item name="title">**</item>
+        <item name="image">studies_and_experiments_**_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> **</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> **</item>
+        <item name="topic"><b><u>Topic:</u></b> ** </item>
+        <item name="details"><b><u>Experiment Details:</u></b>
+                            \n\n\t\t
+                            \n\n\t\t
+        </item>
+    </string-array>
+
+    <string-array name="_**_StudiesAndExperiments">
+        <item name="title">**</item>
+        <item name="image">studies_and_experiments_**_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> **</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> **</item>
+        <item name="topic"><b><u>Topic:</u></b> ** </item>
+        <item name="details"><b><u>Experiment Details:</u></b>
+                            \n\n\t\t
+                            \n\n\t\t
+        </item>
+    </string-array>
+
+    <string-array name="_**_StudiesAndExperiments">
+        <item name="title">**</item>
+        <item name="image">studies_and_experiments_**_</item>
+        <item name="conductedBy"><b><u>Study Conducted By:</u></b> **</item>
+        <item name="dateAndPlace"><b><u>Year and Place:</u></b> **</item>
+        <item name="topic"><b><u>Topic:</u></b> ** </item>
+        <item name="details"><b><u>Experiment Details:</u></b>
+                            \n\n\t\t
+                            \n\n\t\t
+        </item>
+    </string-array>-->
+
+
+</resources>

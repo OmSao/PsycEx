@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".quiz.ScoreAnalysisAnswers_Activity">
+
+</android.support.constraint.ConstraintLayout>-->
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".quiz.ScoreAnalysisAnswers_Activity"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="2dp"
+    android:layout_marginBottom="2dp">
+
+    <TableLayout
+        android:id="@+id/tableForAnalytics"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:padding="30dp"
+        android:stretchColumns="1">
+
+        <TableRow>
+
+            <TextView
+                android:layout_width="176dp"
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="All Questions: " />
+
+            <TextView
+                android:id="@+id/totalNumberOfQuestionText"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="Attempted: " />
+
+            <TextView
+                android:id="@+id/numberOfAttemptedText"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="Skipped: " />
+
+            <TextView
+                android:id="@+id/numberOfSkippedText"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="Correct: " />
+
+            <TextView
+                android:id="@+id/numberOfCorrectText"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="" />
+        </TableRow>
+
+        <TableRow>
+
+            <TextView
+                android:gravity="right"
+                android:padding="3dip"
+                android:text="Wrong: " />
+
+            <TextView
+                android:id="@+id/numberOfWrongText"
+                android:gravity="left"
+                android:padding="3dip"
+                android:text="" />
+        </TableRow>
+    </TableLayout>
+
+    <!--<TextView
+        android:id="@+id/totalNumberOfQuestionText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:background="@color/diffBackgroundWhite"
+        android:padding="10dp"
+        android:text="All Questions: "
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+    <TextView
+        android:id="@+id/numberOfAttemptedText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/totalNumberOfQuestionText"
+        android:background="@color/diffBackgroundWhite"
+        android:padding="10dp"
+        android:text="Attempted: "
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+    <TextView
+        android:id="@+id/numberOfSkippedText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/numberOfAttemptedText"
+        android:background="@color/diffBackgroundWhite"
+        android:padding="10dp"
+        android:text="Skipped: "
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+    <TextView
+        android:id="@+id/numberOfCorrectText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/numberOfSkippedText"
+        android:background="@color/diffBackgroundWhite"
+        android:padding="10dp"
+        android:text="Correct: "
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />
+
+    <TextView
+        android:id="@+id/numberOfWrongText"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/numberOfCorrectText"
+        android:background="@color/diffBackgroundWhite"
+        android:padding="10dp"
+        android:text="Wrong: "
+        android:textAppearance="@style/TextAppearance.AppCompat.Small" />-->
+
+    <com.github.mikephil.charting.charts.PieChart
+        android:id="@+id/piechart"
+        android:layout_width="275dp"
+        android:layout_height="250dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="162dp" />
+
+</RelativeLayout>

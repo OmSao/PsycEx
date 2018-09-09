@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@drawable/animated_background"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:theme="@style/GenericCardViewActivityTheme"
+    tools:context=".studyMaterials.StudyMaterials_Activity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/studyMaterialToolbar"
+        android:layout_width="match_parent"
+        android:layout_height="58dp"
+        android:background="@color/colorPrimary"
+        android:minHeight="3dp"
+        />
+    <!--<View
+        android:paddingTop="150dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/black"/>-->
+    <!--<View
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/green"
+        />-->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="2dp"
+        android:background="@color/grey_fontColor"
+        />
+    <ExpandableListView
+
+        android:id="@android:id/android:list"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/holo_blue_light"/>
+
+</LinearLayout>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/quizDashboardParentGrid"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    tools:context=".quiz.QuizDashboard_Activity">
+
+    <Button
+        android:id="@+id/mixQuizButton"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:background="@android:color/holo_blue_bright"
+        android:text="Mix Quiz"
+        tools:text="Mix Quiz" />
+
+    <TextView
+        android:id="@+id/listByTopic"
+        android:layout_width="273dp"
+        android:layout_height="wrap_content"
+        android:padding="20dp"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/mixQuizButton"
+        android:gravity="center_horizontal"
+        android:textSize="20dp"
+        android:text="Quizzes by Topic" />
+
+    <Button
+        android:id="@+id/psychologyTopic1Introduction"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/listByTopic"
+        android:background="@android:color/holo_blue_bright"
+        android:text="Introduction to Psychology"
+        tools:text="Introduction to Psychology" />
+
+    <Button
+        android:id="@+id/psychologyTopic2ResearchMethod"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_below="@+id/psychologyTopic1Introduction"
+        android:layout_marginTop="20dp"
+        android:background="@android:color/holo_blue_bright"
+        android:text="Research methods"
+        tools:text="Research methods" />
+</RelativeLayout>

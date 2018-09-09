@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="_1_watch_videos">
+        <item name="title">MIT Open Courseware</item>
+        <item name="image">watch_ideos_1_</item>
+        <item name="link">https://www.youtube.com/watch?v=2fbrl6WoIyo&amp;list=PL44ABC9278E2EE706</item>
+        <item name="topic"><b><u>Topic:</u></b>24 Videos. Very detailed video and time taking. Watch during free time.</item>
+    </string-array>
+
+    <string-array name="_2_watch_videos">
+        <item name="title">CEC UGC courses</item>
+        <item name="image">watch_ideos_2_</item>
+        <item name="link">https://www.youtube.com/watch?v=nG8VkmQ-YXs&amp;list=PLNsppmbLKJ8IappDm-F0fNBBjxNDtG3z3</item>
+        <item name="topic"><b><u>Topic:</u></b>25 Videos. Elaborate discussions and explaination on selected topics. You will develop deeper insights.</item>
+    </string-array>
+
+    <string-array name="_3_watch_videos">
+        <item name="title">Open Yale Psychology course by Paul Bloom</item>
+        <item name="image">watch_ideos_3_</item>
+        <item name="link">https://www.youtube.com/watch?v=P3FKHH2RzjI&amp;list=PL6A08EB4EEFF3E91F</item>
+        <item name="topic"><b><u>Topic:</u></b>20 Videos. Wonderful explaination of different schools of Psychology, Motivation and Emotions and few topics of Paper-1 topics.</item>
+    </string-array>
+
+    <string-array name="_4_watch_videos">
+        <item name="title">Examrace IAS Mains Psychology Optional</item>
+        <item name="image">watch_ideos_4_</item>
+        <item name="link">https://www.youtube.com/watch?v=0U6EUP6Ak4U&amp;list=PLW9kB_HKs3_MPj_iw65PAVI1SbuH7tcaP</item>
+        <item name="topic"><b><u>Topic:</u></b>34 Videos. Covers as per our CSE Mains syllabus</item>
+    </string-array>
+
+    <string-array name="_5_watch_videos">
+        <item name="title">Crash Course Psychology</item>
+        <item name="image">watch_ideos_5_</item>
+        <item name="link">https://www.youtube.com/watch?v=vo4pMVb0R6M&amp;list=PL8dPuuaLjXtOPRKzVLY0jJY-uHOH9KVU6</item>
+        <item name="topic"><b><u>Topic:</u></b>40 Videos. Quick Revision and Creative content for remembering. Watch in free time.</item>
+    </string-array>
+
+
+</resources>

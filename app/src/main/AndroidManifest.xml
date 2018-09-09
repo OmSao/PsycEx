@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jarvis.psycex">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true">
+        <activity
+            android:name=".SplashScreen"
+            android:theme="@style/splashScreneTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".Dashboard_mainActivity"
+            android:theme="@style/DashboardMainActivityTheme" />
+        <activity
+            android:name=".studyMaterials.StudyMaterials_Activity"
+            android:label=""
+            android:parentActivityName=".Dashboard_mainActivity"
+            android:theme="@style/GenericCardViewActivityTheme" />
+        <activity
+            android:name=".DocumentViewer_Activity"
+            android:label="PsycEx&apos;s Document Viewer"
+            android:parentActivityName=".studyMaterials.StudyMaterials_Activity"
+            android:theme="@style/GenericCardViewActivityTheme" />
+
+        <!--
+        <activity android:name=".dictionary.SearchableDictionary">
+
+        </activity>
+        -->
+
+        <activity
+            android:name=".dictionary.SearchableDictionary"
+            android:label="PsycEx Dictionary"
+            android:launchMode="singleTop"
+            android:parentActivityName=".Dashboard_mainActivity">
+
+            <!--
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+            -->
+
+
+            <!-- Receives the search request. -->
+            <intent-filter>
+                <action android:name="android.intent.action.SEARCH" />
+                <!-- No category needed, because the Intent will specify this class component -->
+            </intent-filter>
+
+            <!-- Points to searchable meta data. -->
+            <meta-data
+                android:name="android.app.searchable"
+                android:resource="@xml/searchable" />
+        </activity>
+        <!-- Displays the definition of a word. -->
+        <activity
+            android:name=".dictionary.WordActivity"
+            android:parentActivityName=".dictionary.SearchableDictionary" />
+
+        <!-- Provides search suggestions for words and their definitions. -->
+        <provider
+            android:name=".dictionary.DictionaryProvider"
+            android:authorities="com.jarvis.psycex.dictionary.DictionaryProvider" />
+
+        <!-- Points to searchable activity so the whole app can invoke search. -->
+        <meta-data
+            android:name="android.app.default_searchable"
+            android:value=".dictionary.SearchableDictionary" />
+
+        <activity
+            android:name=".StudiesAndExperiments.StudiesAndExperiments_Activity"
+            android:label="Studies and Experiments"
+            android:parentActivityName=".Dashboard_mainActivity"
+            android:theme="@style/GenericCardViewActivityTheme" />
+        <activity
+            android:name=".StudiesAndExperiments.ViewSingleStudiesAndExperiments"
+            android:label="Studies and Experiments"
+            android:parentActivityName=".StudiesAndExperiments.StudiesAndExperiments_Activity"
+            android:theme="@style/GenericCardViewActivityTheme" />
+        <activity
+            android:name=".notes.Notes_Activity"
+            android:label="Notes"
+            android:parentActivityName=".Dashboard_mainActivity"
+            android:theme="@style/GenericCardViewActivityTheme" />
+        <activity
+            android:name=".quiz.QuizDashboard_Activity"
+            android:label="Quiz"
+            android:parentActivityName=".Dashboard_mainActivity"
+            android:theme="@style/GenericCardViewActivityTheme" />
+        <activity
+            android:name=".watchVideos.WatchVideos_Activity"
+            android:label="Psychology courses videos"
+            android:parentActivityName=".Dashboard_mainActivity"
+            android:theme="@style/GenericCardViewActivityTheme" />
+        <activity
+            android:name=".VideoViewer_Activity"
+            android:label="PsycEx&apos;s Video Viewer"
+            android:parentActivityName=".watchVideos.WatchVideos_Activity"
+            android:theme="@style/GenericCardViewActivityTheme" />
+        <activity
+            android:name=".quiz.Quiz_Activity"
+            android:label="Quiz Activity"
+            android:parentActivityName=".quiz.QuizDashboard_Activity"
+            android:theme="@style/GenericCardViewActivityTheme" />
+        <activity
+            android:name=".quiz.ScoreAnalysisAnswers_Activity"
+            android:label="Score Analysis and Answers"
+            android:parentActivityName=".quiz.QuizDashboard_Activity"
+            android:theme="@style/GenericCardViewActivityTheme" />
+    </application>
+
+</manifest>
